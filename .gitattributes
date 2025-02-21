@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+node_modules
+cypress/e2e/2-advanced-examples
